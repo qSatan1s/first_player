@@ -3,7 +3,7 @@ var playlist = [{
         album: 'StarWars',
         artist: 'John Williams',
         artwork: 'https://priscree.ru/img/1b308004f130cd.jpg',
-        mp3: 'https://cs1-64v4.vkuseraudio.net/p14/710f8bf762a9a0.mp3?extra=fEEwsKeRcZ9V2bOGDCeJWvaaKGoMT8ROOR14WAaB6IVeyP0rPQEDgpI8cgKdx5mrVjT4gwUMcMW047U2jvniss67Bm4IwGf5ViIlRdvJdQlwKUpzk9Y1Mmh7G3fksDm4DWd6TZ20X5z0lBbQPuLdf2dFbg',
+        mp3: 'https://cs1-43v4.vkuseraudio.net/p15/8a8ac811832b2c.mp3?extra=zn8rACrgMGQX_1RLuaofYQYXW51N03WBq5tswJBsYMbj0MmQWdBexBFqK9IZmluIOSci5Ca_rTBStQi2LwF1OgMHEeuaOupSdDOjTwmzoqME_NCzPe5B0M-nz7MX7jv826OBr2qz3VTGQKgXuuJ1Uok',
     },
 
     {
@@ -11,7 +11,7 @@ var playlist = [{
         album: '',
         artist: 'Kavinsky feat. The Weeknd',
         artwork: 'https://muzplus.info/storage/covers/song/11768_300.jpg',
-        mp3: 'https://cs1-75v4.vkuseraudio.net/p6/59de27c0b5a00d.mp3?extra=iYsoj7oFS96pjCI5vAmL0VEbnmNg5v9aKD3GYGKk0z3hs3N0QwvE7OnUl9pptioe-EOidhE_WAw80LRQ6LwWAu9ErnGBvNmKGMtwso8MugALDG3Wy9pje3Ph7_wLQdAUDAwgegl8OxbQsm-ecE57B5xvyA',
+        mp3: 'https://cs1-38v4.vkuseraudio.net/p3/498263d0b6f5d6.mp3?extra=jHn9Cv6Hv9eff6S5We9Ho-ukYs92YxMC6qzlc9OxGMwfWoYLfcEBhDulwC6s2NU6_gFukO2re1Q0U0yyj-miqxIWawxEO2PkXHhjyCe8nGgqQ09ifLVnrgqsg_Gb145IHabYxmVKnKaj-DuUdzXvnyc',
     },
 
     {
