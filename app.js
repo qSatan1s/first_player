@@ -11,7 +11,7 @@ var playlist = [{
         album: '',
         artist: 'Kavinsky feat. The Weeknd',
         artwork: 'https://muzplus.info/storage/covers/song/11768_300.jpg',
-        mp3: 'https://cs1-38v4.vkuseraudio.net/p3/498263d0b6f5d6.mp3?extra=jHn9Cv6Hv9eff6S5We9Ho-ukYs92YxMC6qzlc9OxGMwfWoYLfcEBhDulwC6s2NU6_gFukO2re1Q0U0yyj-miqxIWawxEO2PkXHhjyCe8nGgqQ09ifLVnrgqsg_Gb145IHabYxmVKnKaj-DuUdzXvnyc',
+        mp3: 'https://cs1-66v4.vkuseraudio.net/p1/5bcd271c65ee47.mp3?extra=B3wxXOHdG-WBJf77ttNcLxikUNvvkxFDTOt2jgDQAEUb1EwhzSOVNWfu4_ueyO_DrLw96qkRj-uZVYKNMSkZ9j-RPZ_am7ePzuLGumOn5hI_aGm79_r7WxQkmzFMwmmPcVcn7aXrN0vJbjT3EEqOn-Q',
     },
 
     {
