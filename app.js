@@ -19,7 +19,7 @@ var playlist = [{
         album: 'Star Shopping',
         artist: 'Lil Peep',
         artwork: 'https://lastfm.freetls.fastly.net/i/u/500x500/b25873aebf4b51b6e4a16015a97c1ec0.jpg',
-        mp3: 'https://cs1-76v4.vkuseraudio.net/p19/44d40b6ec26fb6.mp3?extra=Yfy5hRgteXwR3djXB-CO237HdjZ3cYm-kPXixKQjWOl7jJmBY6HQqa2vvTy3ko1nmER-kkctZStBK9KDC7WJmBHyfoyakRYE2Pmz8DaPMq56w5uqfc7cNxg7zc2fJlFFCKYeLdVl9vfSbETxyQAPqcCx8Q',
+        mp3: 'https://cs1-76v4.vkuseraudio.net/p19/d73db49c9c5694.mp3?extra=Ib59scXlEVBEAMvhWbh5Vj5Yxg4j90JDIVvPD92UqM9mC81DOATKwmZfsgNGv3E7LRZxkiGgPCglXanLs12_218_AOwzIps2T8A_vDrzMENrJHT7IQZ2yJD_FD8EeqmPd4sEopOJ-pORiHgr24jOzcw',
     },
 ];
 
