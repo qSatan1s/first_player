@@ -3,7 +3,7 @@ var playlist = [{
         album: 'StarWars',
         artist: 'John Williams',
         artwork: 'https://priscree.ru/img/1b308004f130cd.jpg',
-        mp3: 'https://cs1-43v4.vkuseraudio.net/p15/8a8ac811832b2c.mp3?extra=zn8rACrgMGQX_1RLuaofYQYXW51N03WBq5tswJBsYMbj0MmQWdBexBFqK9IZmluIOSci5Ca_rTBStQi2LwF1OgMHEeuaOupSdDOjTwmzoqME_NCzPe5B0M-nz7MX7jv826OBr2qz3VTGQKgXuuJ1Uok',
+        mp3: 'https://cs1-59v4.vkuseraudio.net/p9/1870a261f6e526.mp3?extra=hJUUkzhcVY0YN_TCcj15Y-78l9piIbDzKYNwycXmuMWJKFMDr1HqtwfK_wDHQPjSa0bsgh3fvzuXFVMKR9-rwAnlZ3WmWOO9auhBzOUPxyH0gLJk0WEzwEuFhi4QkfGjxeMkKaDXdS5Rib9WicQtSOw',
     },
 
     {
